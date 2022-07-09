@@ -1,0 +1,12 @@
+git:
+  # good line, please keep when merge
+  line0: ae229a357ee49bedaf6f65e365ed2c686a1db70b3cc38216d88340b0b71ade1b
+
+  # good line, please keep when merge
+  line1: 1000a6a1dec8696ae4bec294779ab2a6a4c3c8a778cc2aaa909a9eba3008aeaa
+
+  # good line, please keep when merge
+  line2: a51d59b89dc7468d34f9713a2dbd66a82b0cf6c49d33072399e4b1b6b5ca7e79
+
+  # bad line, please delete when merge
+  line3: 860c751b131e6750baaaf2f283a94977f2458d5f2bf2e154783b69225a08f5a8
